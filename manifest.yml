@@ -5,6 +5,6 @@ applications:
   instances: 1
   services: []
   host: hello-boot-rags
-  path: ./target/myproject-0.0.1-SNAPSHOT.jar
+  path: ./target/myproject-1.0.0.jar
   env:
    JAVA_OPTS: -Drebel.remoting_plugin=true
